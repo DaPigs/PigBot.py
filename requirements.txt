@@ -1,0 +1,4 @@
+git+https://github.com/DaPigs/PigBot@rewrite
+PyNaCl==1.3.0
+pandas
+dnspython==1.16.0
