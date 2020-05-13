@@ -2,7 +2,7 @@ import discord
 import asyncio
 
 client = discord.Client()
-token = "NzEwMDExNzA0MTg0MTQzOTA1.XrvOEA.7zJg5gN9pyBIVt6cBxiL86-lfZU"
+token = "NzEwMDExNzA0MTg0MTQzOTA1.XrvPVQ.4Lf1tqcm_2Fmhh9MrozZelX-2W8"
 
 def findtime(timespan):
 	time = 0
